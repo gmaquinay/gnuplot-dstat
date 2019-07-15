@@ -15,3 +15,4 @@ gnuplot-dstat -i dstat.csv -o /tmp/report
 ```
 
 Results will be stored in /tmp/report folder.
+![Network graph example](https://raw.githubusercontent.com/gmaquinay/gnuplot-dstat/master/examples/pc2_net_total.png)
